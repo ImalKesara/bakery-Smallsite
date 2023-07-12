@@ -1,0 +1,34 @@
+#con-img {
+  background-color: #cfcdcc;
+  border-radius: 10px;
+}
+
+#main {
+  background-image: url("../../assets/img/background.jpg");
+  background-size: cover;
+}
+
+#con p {
+  padding-top: 10px;
+}
+
+body {
+  background-color: #f1ebf7;
+}
+
+.card-img {
+  height: 350px;
+}
+
+#promo .jumbotron {
+  background-color: #d37ff0;
+}
+
+#cake {
+  background-color: yellow;
+}
+
+#third {
+  width: 100%;
+}
+
